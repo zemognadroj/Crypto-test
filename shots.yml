@@ -2,5 +2,5 @@
   selector: 'div#sheets-viewport'
   output: shot.png
   width: 600
-  height: 595
+  height: 598
   quality: 100
