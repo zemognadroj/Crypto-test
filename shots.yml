@@ -1,6 +1,6 @@
-- url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRtXXUGWyxXcyh01xgdGyHFd6xxXTfow0YulhH1YackVC73N1cNSU2tRxLNNlC_qFpTVX6cFLV_rI4Z/pubhtml?gid=1256142959&single=true
+- url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRtXXUGWyxXcyh01xgdGyHFd6xxXTfow0YulhH1YackVC73N1cNSU2tRxLNNlC_qFpTVX6cFLV_rI4Z/pubhtml?gid=931485705&single=true
   selector: 'div#sheets-viewport'
   output: shot.png
   width: 426
-  height: 379
+  height: 800
   quality: 100
